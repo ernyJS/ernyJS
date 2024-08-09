@@ -1,4 +1,19 @@
-## Hi there s 👋
+## I currently develop my fullstack skills 📈
+## My frontend is 🖼:
+- HTML
+- CSS
+- JavaScript
+- React.js
+## My backend is 💻:
+- NodeJS
+- Express
+- MongoDB
+- JWT
+- Mongoose
+
+
+
+
 
 <!--
 **ernyJS/ernyJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
