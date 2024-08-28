@@ -1,4 +1,4 @@
-## I currently develop my fullstack skills 📈
+## I currently develop my MERN fullstack skills 📈
 ## My frontend is 🖼:
 - HTML
 - CSS
@@ -8,7 +8,6 @@
 - NodeJS
 - Express
 - MongoDB
-- JWT
 - Mongoose
 
 
